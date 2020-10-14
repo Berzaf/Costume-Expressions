@@ -14,7 +14,14 @@
 
 
 /* Grid Rows Styles */
+div #container {
+   width: 100%;
+   clear: both;
 
+
+
+
+}
 
 
 
