@@ -22,6 +22,13 @@ body {
    background-color: white;
    font-family: Verdana, Geneva, Arial, sans-serif;
    margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 95%;
+   max-width: 960px;
+   min-width: 320px;
+   position: relative;
 }
 
 /* Body Header Styles */
