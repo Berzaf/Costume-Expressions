@@ -20,7 +20,8 @@ html {
 
 body {
    background-color: white;
-   font-family: ;
+   font-family: Verdana, Geneva, Arial, sans-serif;
+   margin-top: 20px;
 }
 
 /* Body Header Styles */
